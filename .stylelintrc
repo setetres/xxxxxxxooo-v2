@@ -1,0 +1,14 @@
+{
+  "extends": "stylelint-config-standard",
+  "plugins": [
+    "stylelint-order"
+  ],
+  "rules": {
+    "at-rule-no-unknown": null,
+    "color-hex-length": "long",
+    "indentation": 4,
+    "number-leading-zero": "never",
+    "string-quotes": "single",
+    "order/properties-alphabetical-order": true
+  }
+}

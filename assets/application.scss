@@ -1,0 +1,220 @@
+@import 'placeholder';
+
+::-webkit-scrollbar {
+    height: var(--spacer-1);
+    width: var(--spacer-1);
+
+    &-button {
+        height: 0;
+        width: 0;
+    }
+
+    &-track {
+        background: var(--color-background);
+        border: var(--border-width) dashed var(--color-background);
+        border-radius: var(--spacer-8);
+    }
+
+    &-corner {
+        background: transparent;
+    }
+
+    &-thumb {
+        background-color: var(--color-primary);
+        border: var(--border-width) solid var(--color-primary);
+        border-radius: var(--spacer-8);
+    }
+}
+
+:root {
+    --border-width: 1px;
+    --color-background: #000000;
+    --color-foreground: #ffffff;
+    --color-primary: #e50914;
+    --color-primary-dark: #cd0812;
+    --color-secondary: #1e272e;
+    --font-family: neue-haas-grotesk-display, sans-serif;
+    --spacer-1: 1vw;
+    --spacer-2: 1.5vw;
+    --spacer-3: 2vw;
+    --spacer-4: 2.5vw;
+    --spacer-5: 3vw;
+    --spacer-6: 3.5vw;
+    --spacer-7: 4vw;
+    --spacer-8: 4.5vw;
+    --text-p: 2.5vw;
+    --text-1: 3.5vw;
+    --text-2: 4vw;
+    --text-3: 4.5vw;
+    --text-4: 5vw;
+    --text-5: 5.5vw;
+    --text-6: 6vw;
+    --transition-easing: cubic-bezier(.2, 1, .2, 1);
+    --transition-timing: 500ms;
+
+    @media (min-width: 1200px) {
+        --border-width: 2px;
+        --text-p: 2vw;
+        --text-1: 3vw;
+        --text-2: 3.5vw;
+        --text-3: 4vw;
+        --text-4: 4.5vw;
+        --text-5: 5vw;
+        --text-6: 5.5vw;
+    }
+}
+
+::-webkit-scrollbar-thumb:active {
+    background-color: var(--color-primary-dark);
+    border: var(--border-width) solid var(--color-primary-dark);
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+html {
+    background-color: var(--color-background);
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    height: 100%;
+    image-rendering: auto;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    transition: background-color var(--transition-timing) var(--transition-easing);
+    user-select: none;
+
+    body {
+        background-color: var(--color-background);
+        color: var(--color-foreground);
+        font-family: var(--font-family);
+        font-size: var(--text-p);
+        font-style: normal;
+        font-weight: 500;
+        height: 100%;
+        line-height: 1.2;
+        transition: background-color var(--transition-timing) var(--transition-easing);
+    }
+}
+
+.nuxt-progress {
+    @extend %background-waves;
+
+    z-index: 73;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    display: flex;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0;
+}
+
+h1,
+.h1 {
+    font-size: var(--text-6);
+}
+
+h2,
+.h2 {
+    font-size: var(--text-5);
+}
+
+h3,
+.h3 {
+    font-size: var(--text-4);
+}
+
+h4,
+.h4 {
+    font-size: var(--text-3);
+}
+
+h5,
+.h5 {
+    font-size: var(--text-2);
+}
+
+h6,
+.h6 {
+    font-size: var(--text-1);
+}
+
+a {
+    color: var(--color-foreground);
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+p {
+    margin-bottom: var(--spacer-8);
+    margin-top: 0;
+}
+
+small {
+    color: #777777;
+    display: block;
+    font-size: var(--spacer-3);
+    line-height: 1.2;
+}
+
+// Application
+
+.application {
+    display: grid;
+    gap: 0 0;
+    grid-template-areas:
+        'page'
+        'more'
+        'footer';
+    grid-template-columns: 1fr;
+    grid-template-rows: min-content min-content 1fr;
+    min-height: 100vh;
+
+    &__content {
+        grid-area: page;
+    }
+
+    &__more {
+        grid-area: more;
+    }
+
+    &__footer {
+        grid-area: footer;
+    }
+}
+
+.vazio-svg {
+    margin: var(--spacer-1) 0;
+    width: calc(var(--spacer-8) * 5);
+
+    path {
+        fill: var(--color-foreground);
+    }
+}

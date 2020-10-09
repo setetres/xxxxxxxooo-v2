@@ -1,0 +1,40 @@
+.application__more {
+    > div {
+        margin: var(--spacer-7);
+    }
+
+    &-scroll {
+        display: grid;
+        grid-gap: var(--spacer-3);
+        grid-template-columns: repeat(6, calc(50% - var(--spacer-7) * 2));
+        grid-template-rows: 1fr;
+        margin: var(--spacer-3) 0 0;
+        overflow-x: scroll;
+        padding: 0 0 var(--spacer-2);
+        scroll-snap-type: x proximity;
+
+        &::-webkit-scrollbar-thumb {
+            background-color: var(--color-secondary);
+            border: 2px solid var(--color-secondary);
+        }
+
+        @media (min-width: 1200px) {
+            grid-template-columns: repeat(6, calc(33.33% - var(--spacer-3) * 2));
+        }
+
+        li {
+            align-items: center;
+            background: var(--color-secondary);
+            border-radius: var(--spacer-2);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            overflow: hidden;
+            scroll-snap-align: start;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+.listen {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+    margin: var(--spacer-7) 0 var(--spacer-3) 0;
+    padding: 0;
+
+    li {
+        margin: var(--spacer-1);
+    }
+}
