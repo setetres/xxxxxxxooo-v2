@@ -60,6 +60,12 @@
 
         &--main {
             padding: var(--spacer-7) var(--spacer-7) calc(var(--spacer-7) * 2);
+
+            > div {
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
+            }
         }
     }
 
