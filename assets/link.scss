@@ -2,12 +2,12 @@
     align-items: center;
     background-color: var(--color-primary);
     border: var(--border-width) solid var(--color-primary);
-    border-radius: var(--spacer-4);
+    border-radius: var(--spacer-8);
     color: var(--color-foreground);
     display: inline-flex;
     outline: none;
     overflow: hidden;
-    padding: calc(var(--spacer-1) / 1.5) calc(var(--spacer-2) / 1.5);
+    padding: var(--spacer-1) var(--spacer-3);
     text-decoration: none;
     transition:
         color var(--transition-timing) var(--transition-easing),

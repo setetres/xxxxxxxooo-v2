@@ -34,6 +34,7 @@
     --color-primary-dark: #cd0812;
     --color-secondary: #1e272e;
     --font-family: neue-haas-grotesk-display, sans-serif;
+    --line-height: var(--line-height);
     --spacer-1: 1vw;
     --spacer-2: 1.5vw;
     --spacer-3: 2vw;
@@ -42,13 +43,13 @@
     --spacer-6: 3.5vw;
     --spacer-7: 4vw;
     --spacer-8: 4.5vw;
-    --text-p: 2vw;
-    --text-1: 3.5vw;
-    --text-2: 4vw;
-    --text-3: 4.5vw;
-    --text-4: 5vw;
-    --text-5: 5.5vw;
-    --text-6: 6vw;
+    --text-p: 3vw;
+    --text-1: 4vw;
+    --text-2: 4.5vw;
+    --text-3: 5vw;
+    --text-4: 5.5vw;
+    --text-5: 6vw;
+    --text-6: 6.5vw;
     --transition-easing: cubic-bezier(.2, 1, .2, 1);
     --transition-timing: 500ms;
 
@@ -98,7 +99,7 @@ html {
         font-style: normal;
         font-weight: 500;
         height: 100%;
-        line-height: 1.2;
+        line-height: var(--line-height);
         transition: background-color var(--transition-timing) var(--transition-easing);
     }
 }
@@ -130,7 +131,7 @@ h6,
     display: flex;
     font-style: normal;
     font-weight: 600;
-    line-height: 1.2;
+    line-height: var(--line-height);
     margin: 0;
 }
 
@@ -181,7 +182,7 @@ small {
     color: #777777;
     display: block;
     font-size: calc(var(--text-p) / 1.1);
-    line-height: 1.2;
+    line-height: var(--line-height);
 }
 
 // Application
