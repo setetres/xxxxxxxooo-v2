@@ -18,13 +18,18 @@
         </div>
         <aside class="application__more">
             <div>
-                <h2 class="h6">Recently added</h2>
+                <h2 class="h6">Lastest release</h2>
                 <ul class="application__more-scroll">
                     <li>
                         <nuxt-link to="/᳁/vaziø">
                             <img src="/images/thumbnail-vaziø.jpg">
                         </nuxt-link>
                     </li>
+                </ul>
+            </div>
+            <div>
+                <h2 class="h6">Recently added</h2>
+                <ul class="application__more-scroll">
                     <li>
                         <nuxt-link to="/᳁/displaynone">
                             <img src="/images/thumbnail-displaynone.jpg">

@@ -35,7 +35,7 @@
 
     svg {
         display: block;
-        height: var(--text-1);
+        height: calc(var(--text-1) * 1.5);
 
         polyline {
             animation: xxxxxxxooo-svg 6666ms cubic-bezier(.2, 1, .2, 1) infinite;

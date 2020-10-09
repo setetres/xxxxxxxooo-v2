@@ -35,6 +35,7 @@
     --color-secondary: #1e272e;
     --font-family: neue-haas-grotesk-display, sans-serif;
     --line-height: var(--line-height);
+    --letter-spacing: .15vw;
     --spacer-1: 1vw;
     --spacer-2: 1.5vw;
     --spacer-3: 2vw;
@@ -43,7 +44,7 @@
     --spacer-6: 3.5vw;
     --spacer-7: 4vw;
     --spacer-8: 4.5vw;
-    --text-p: 2.5vw;
+    --text-p: 3vw;
     --text-1: 4vw;
     --text-2: 4.5vw;
     --text-3: 5vw;
@@ -92,6 +93,7 @@ html {
         font-style: normal;
         font-weight: 500;
         height: 100%;
+        letter-spacing: var(--letter-spacing);
         line-height: var(--line-height);
         transition: background-color var(--transition-timing) var(--transition-easing);
     }
@@ -121,6 +123,7 @@ h6,
 .h4,
 .h5,
 .h6 {
+    align-items: center;
     display: flex;
     font-style: normal;
     font-weight: 600;
@@ -188,7 +191,7 @@ small {
         'more'
         'footer';
     grid-template-columns: 1fr;
-    grid-template-rows: min-content min-content 1fr;
+    grid-template-rows: min-content min-content min-content;
     min-height: 100vh;
 
     &__content {

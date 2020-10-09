@@ -9,7 +9,7 @@
         'page-header'
         'page-content';
     grid-template-columns: 1fr;
-    grid-template-rows: min-content 1fr;
+    grid-template-rows: min-content min-content;
     position: relative;
 
     &::before {
