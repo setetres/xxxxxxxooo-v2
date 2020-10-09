@@ -43,7 +43,7 @@
     --spacer-6: 3.5vw;
     --spacer-7: 4vw;
     --spacer-8: 4.5vw;
-    --text-p: 3vw;
+    --text-p: 2.5vw;
     --text-1: 4vw;
     --text-2: 4.5vw;
     --text-3: 5vw;
@@ -53,15 +53,8 @@
     --transition-easing: cubic-bezier(.2, 1, .2, 1);
     --transition-timing: 500ms;
 
-    @media (min-width: 1200px) {
+    @media (min-width: 768px) {
         --border-width: 2px;
-        --text-p: 1.5vw;
-        --text-1: 3vw;
-        --text-2: 3.5vw;
-        --text-3: 4vw;
-        --text-4: 4.5vw;
-        --text-5: 5vw;
-        --text-6: 5.5vw;
     }
 }
 

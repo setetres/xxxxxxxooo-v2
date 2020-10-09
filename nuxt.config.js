@@ -35,12 +35,12 @@ export default {
         '@/assets/application.scss',
         '@/assets/embed.scss',
         '@/assets/footer.scss',
-        '@/assets/header.scss',
         '@/assets/link.scss',
         '@/assets/listen.scss',
         '@/assets/logo.scss',
         '@/assets/more.scss',
-        '@/assets/music.scss'
+        '@/assets/music.scss',
+        '@/assets/page.scss'
     ],
     loading: {
         color: '#000000',
