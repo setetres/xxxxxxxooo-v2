@@ -35,7 +35,7 @@
 
     svg {
         display: block;
-        height: calc(var(--spacer-5) * 2);
+        height: calc(var(--text-1) * 1.2);
 
         polyline {
             animation: xxxxxxxooo-svg 6666ms cubic-bezier(.2, 1, .2, 1) infinite;
@@ -133,7 +133,7 @@
 .application__page-header-sttrs {
     svg {
         display: block;
-        height: var(--spacer-3);
+        height: var(--text-1);
 
         line,
         path {

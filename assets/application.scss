@@ -42,7 +42,7 @@
     --spacer-6: 3.5vw;
     --spacer-7: 4vw;
     --spacer-8: 4.5vw;
-    --text-p: 2.5vw;
+    --text-p: 2vw;
     --text-1: 3.5vw;
     --text-2: 4vw;
     --text-3: 4.5vw;
@@ -54,7 +54,7 @@
 
     @media (min-width: 1200px) {
         --border-width: 2px;
-        --text-p: 2vw;
+        --text-p: 1.5vw;
         --text-1: 3vw;
         --text-2: 3.5vw;
         --text-3: 4vw;
@@ -173,14 +173,14 @@ a {
 }
 
 p {
-    margin-bottom: var(--spacer-8);
+    margin-bottom: var(--text-p);
     margin-top: 0;
 }
 
 small {
     color: #777777;
     display: block;
-    font-size: var(--spacer-3);
+    font-size: calc(var(--text-p) / 1.1);
     line-height: 1.2;
 }
 
@@ -211,8 +211,8 @@ small {
 }
 
 .vazio-svg {
-    margin: var(--spacer-1) 0;
-    width: calc(var(--spacer-8) * 5);
+    margin: 10px 0 15px 0;
+    width: calc(var(--text-6) * 5);
 
     path {
         fill: var(--color-foreground);
