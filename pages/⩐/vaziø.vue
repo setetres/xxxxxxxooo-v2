@@ -72,32 +72,32 @@
                 <h2 class="h6">You may also like</h2>
                 <ul class="application__more-scroll">
                     <li>
-                        <nuxt-link to="/᳁/displaynone">
+                        <nuxt-link to="/⩐/displaynone">
                             <img src="/images/thumbnail-displaynone.jpg">
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/᳁/vingt-vingt">
+                        <nuxt-link to="/⩐/vingt-vingt">
                             <img src="/images/thumbnail-vingt-vingt.jpg">
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/᳁/10-hour-keyboard-drumming">
+                        <nuxt-link to="/⩐/10-hour-keyboard-drumming">
                             <img src="/images/thumbnail-10-hour-keyboard-drumming.jpg">
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/᳁/moshaxe">
+                        <nuxt-link to="/⩐/moshaxe">
                             <img src="/images/thumbnail-moshaxe.jpg">
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/᳁/triceracough">
+                        <nuxt-link to="/⩐/triceracough">
                             <img src="/images/thumbnail-triceracough.jpg">
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/᳁/fein">
+                        <nuxt-link to="/⩐/fein">
                             <img src="/images/thumbnail-fein.jpg">
                         </nuxt-link>
                     </li>

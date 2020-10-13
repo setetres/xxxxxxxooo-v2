@@ -3,10 +3,6 @@ const StyleLintPlugin = require('stylelint-webpack-plugin')
 
 export default {
     ssr: false,
-    server: {
-        port: 8000,
-        host: '192.168.0.77'
-    },
     head: {
         htmlAttrs: {
             lang: 'en',

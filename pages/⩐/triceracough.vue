@@ -4,33 +4,33 @@
             <Header />
             <main class="application__page-content">
                 <div class="application__page-content-embed">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/82A_sMmKGGI" frameborder="0" allowfullscreen />
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/CKqnuZBjsZY" frameborder="0" allowfullscreen />
                 </div>
                 <div class="application__music">
                     <div class="application__music-title">
                         <small>
-                            Hidden Track
+                            Single
                         </small>
-                        <h1>DISPLAYNONE</h1>
+                        <h1>TRICERACOUGH</h1>
                     </div>
                     <div class="application__music-cover">
-                        <img src="/images/vingt-vingt.png" alt="VINGT-VINGT Album Cover">
+                        <img src="/images/triceracough.png" alt="TRICERACOUGH Album Cover">
                     </div>
                     <ul class="application__music-extra">
                         <li>
                             <small>
-                                DISPLAYNONE (Hidden Track from VINGT-VINGT Vinyl), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarantine.
+                                TRICERACOUGH (Single), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarantine.
                             </small>
                         </li>
                     </ul>
                     <ul class="application__music-tracklist">
                         <li>
                             <div>
-                                <small>7. Hidden Track</small>
-                                <small>3:08</small>
+                                <small>1.</small>
+                                <small>3:34</small>
                             </div>
                             <p>
-                                DISPLAYNONE
+                                TRICERACOUGH
                             </p>
                         </li>
                     </ul>
@@ -39,27 +39,27 @@
                     <h2 class="h6">Available</h2>
                     <ul class="listen">
                         <li>
-                            <a href="https://music.apple.com/br/album/vingt-vingt/1525239686" class="link link--outline" target="_blank" rel="noopener">
+                            <a href="https://music.apple.com/br/album/triceracough-single/1514705104" class="link link--outline" target="_blank" rel="noopener">
                                 Apple Music
                             </a>
                         </li>
                         <li>
-                            <a href="https://deezer.com/br/album/163383462" class="link link--outline" target="_blank" rel="noopener">
+                            <a href="https://deezer.com/br/album/149920012" class="link link--outline" target="_blank" rel="noopener">
                                 Deezer
                             </a>
                         </li>
                         <li>
-                            <a href="https://open.spotify.com/album/6NgLlnVG9HTJA8U0TcRj4Z" class="link link--outline" target="_blank" rel="noopener">
+                            <a href="https://open.spotify.com/album/1o0IoOxGycM6IfD7EcYxZ9" class="link link--outline" target="_blank" rel="noopener">
                                 Spotify
                             </a>
                         </li>
                         <li>
-                            <a href="https://tidal.com/browse/album/150081917" class="link link--outline" target="_blank" rel="noopener">
+                            <a href="https://tidal.com/browse/album/142432861" class="link link--outline" target="_blank" rel="noopener">
                                 Tidal
                             </a>
                         </li>
                         <li>
-                            <a href="https://youtube.com/watch?v=zfEtdrSOpNs" class="link link--outline" target="_blank" rel="noopener">
+                            <a href="https://youtube.com/watch?v=CKqnuZBjsZY" class="link link--outline" target="_blank" rel="noopener">
                                 YouTube
                             </a>
                         </li>
@@ -72,32 +72,32 @@
                 <h2 class="h6">You may also like</h2>
                 <ul class="application__more-scroll">
                     <li>
-                        <nuxt-link to="/᳁/vaziø">
+                        <nuxt-link to="/⩐/vaziø">
                             <img src="/images/thumbnail-vaziø.jpg">
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/᳁/vingt-vingt">
+                        <nuxt-link to="/⩐/displaynone">
+                            <img src="/images/thumbnail-displaynone.jpg">
+                        </nuxt-link>
+                    </li>
+                    <li>
+                        <nuxt-link to="/⩐/vingt-vingt">
                             <img src="/images/thumbnail-vingt-vingt.jpg">
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/᳁/10-hour-keyboard-drumming">
+                        <nuxt-link to="/⩐/10-hour-keyboard-drumming">
                             <img src="/images/thumbnail-10-hour-keyboard-drumming.jpg">
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/᳁/moshaxe">
+                        <nuxt-link to="/⩐/moshaxe">
                             <img src="/images/thumbnail-moshaxe.jpg">
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/᳁/triceracough">
-                            <img src="/images/thumbnail-triceracough.jpg">
-                        </nuxt-link>
-                    </li>
-                    <li>
-                        <nuxt-link to="/᳁/fein">
+                        <nuxt-link to="/⩐/fein">
                             <img src="/images/thumbnail-fein.jpg">
                         </nuxt-link>
                     </li>
@@ -125,7 +125,7 @@
 
         head() {
             return {
-                title: 'XXXXXXXOOO — DISPLAYNONE'
+                title: 'XXXXXXXOOO — TRICERACOUGH'
             }
         },
 

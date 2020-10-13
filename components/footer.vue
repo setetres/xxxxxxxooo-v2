@@ -1,6 +1,6 @@
 <template>
     <footer class="application__footer">
-        <small>᳁</small>
+        <small>⩐</small>
     </footer>
 </template>
 <script>
