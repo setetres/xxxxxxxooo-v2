@@ -10,7 +10,7 @@
                     </h2>
                     <p>
                         <nuxt-link to="/⩐/vaziø" class="link">
-                            Watch now
+                            Watch
                         </nuxt-link>
                     </p>
                 </div>
