@@ -16,13 +16,13 @@ export default {
             { hid: 'og:type', property: 'og:type', content: 'website' },
             { hid: 'og:title', property: 'og:title', content: 'XXXXXXXOOO — NIEF' },
             { hid: 'og:description', property: 'og:description', content: 'QWxzbyBLbm93biBhcyBHdWlsaGVybWUgUGFuZ25vdHRh' },
-            { hid: 'og:image', property: 'og:image', content: 'https://xxxxxxx.ooo/images/share.png' },
+            { hid: 'og:image', property: 'og:image', content: 'https://xxxxxxx.ooo/images/share-xxxxxxxooo.png' },
             { hid: 'og:url', property: 'og:url', content: 'https://xxxxxxx.ooo' },
 
             { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' },
             { hid: 'twitter:title', name: 'twitter:title', content: 'XXXXXXXOOO — NIEF' },
             { hid: 'twitter:description', name: 'twitter:description', content: 'QWxzbyBLbm93biBhcyBHdWlsaGVybWUgUGFuZ25vdHRh' },
-            { hid: 'twitter:image', name: 'twitter:image', content: 'https://xxxxxxx.ooo/images/share.png' }
+            { hid: 'twitter:image', name: 'twitter:image', content: 'https://xxxxxxx.ooo/images/share-xxxxxxxooo.png' }
         ],
         link: [
             { rel: 'canonical', href: 'https://xxxxxxx.ooo' },
