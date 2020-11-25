@@ -105,6 +105,11 @@
                 <h2 class="h6">You may also like</h2>
                 <ul class="application__more-scroll">
                     <li>
+                        <nuxt-link to="/⩐/nief">
+                            <img src="/images/thumbnail-nief.jpg">
+                        </nuxt-link>
+                    </li>
+                    <li>
                         <nuxt-link to="/⩐/vaziø">
                             <img src="/images/thumbnail-vaziø.jpg">
                         </nuxt-link>

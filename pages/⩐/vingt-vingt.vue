@@ -147,6 +147,12 @@
                         </li>
                     </ul>
                 </div>
+                <div class="application__music-photos">
+                    <img src="/images/vingt-vingt-01.jpg">
+                    <img src="/images/vingt-vingt-02.jpg">
+                    <img src="/images/vingt-vingt-03.jpg">
+                    <img src="/images/vingt-vingt-04.jpg">
+                </div>
                 <div class="application__page-info">
                     <h2 class="h6">Available</h2>
                     <ul class="listen">
@@ -189,6 +195,11 @@
             <div>
                 <h2 class="h6">You may also like</h2>
                 <ul class="application__more-scroll">
+                    <li>
+                        <nuxt-link to="/⩐/nief">
+                            <img src="/images/thumbnail-nief.jpg">
+                        </nuxt-link>
+                    </li>
                     <li>
                         <nuxt-link to="/⩐/vaziø">
                             <img src="/images/thumbnail-vaziø.jpg">

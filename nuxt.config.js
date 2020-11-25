@@ -7,20 +7,20 @@ export default {
         htmlAttrs: {
             lang: 'en',
         },
-        title: 'XXXXXXXOOO — VAZIØ',
+        title: 'XXXXXXXOOO — NIEF',
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, height=device-height, user-scalable=no, initial-scale=1' },
             { hid: 'description', name: 'description', content: 'QWxzbyBLbm93biBhcyBHdWlsaGVybWUgUGFuZ25vdHRh' },
 
             { hid: 'og:type', property: 'og:type', content: 'website' },
-            { hid: 'og:title', property: 'og:title', content: 'XXXXXXXOOO — VAZIØ' },
+            { hid: 'og:title', property: 'og:title', content: 'XXXXXXXOOO — NIEF' },
             { hid: 'og:description', property: 'og:description', content: 'QWxzbyBLbm93biBhcyBHdWlsaGVybWUgUGFuZ25vdHRh' },
             { hid: 'og:image', property: 'og:image', content: 'https://xxxxxxx.ooo/images/share.png' },
             { hid: 'og:url', property: 'og:url', content: 'https://xxxxxxx.ooo' },
 
             { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' },
-            { hid: 'twitter:title', name: 'twitter:title', content: 'XXXXXXXOOO — VAZIØ' },
+            { hid: 'twitter:title', name: 'twitter:title', content: 'XXXXXXXOOO — NIEF' },
             { hid: 'twitter:description', name: 'twitter:description', content: 'QWxzbyBLbm93biBhcyBHdWlsaGVybWUgUGFuZ25vdHRh' },
             { hid: 'twitter:image', name: 'twitter:image', content: 'https://xxxxxxx.ooo/images/share.png' }
         ],

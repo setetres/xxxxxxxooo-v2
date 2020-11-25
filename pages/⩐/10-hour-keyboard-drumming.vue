@@ -6,12 +6,25 @@
                 <div class="application__page-content-embed">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/YUyrXiCl5kU" frameborder="0" allowfullscreen />
                 </div>
+                <div class="application__music">
+                    <div class="application__music-title">
+                        <small>
+                            Special
+                        </small>
+                        <h1>10 HOUR KEYBOARD DRUMMING</h1>
+                    </div>
+                </div>
             </main>
         </div>
         <div class="application__more">
             <div>
                 <h2 class="h6">You may also like</h2>
                 <ul class="application__more-scroll">
+                    <li>
+                        <nuxt-link to="/⩐/nief">
+                            <img src="/images/thumbnail-nief.jpg">
+                        </nuxt-link>
+                    </li>
                     <li>
                         <nuxt-link to="/⩐/vaziø">
                             <img src="/images/thumbnail-vaziø.jpg">

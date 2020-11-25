@@ -34,7 +34,8 @@
     --color-primary-dark: #cd0812;
     --color-secondary: #1e272e;
     --font-family: neue-haas-grotesk-display, sans-serif;
-    --line-height: var(--line-height);
+    --line-height-sm: 1;
+    --line-height: 1.2;
     --letter-spacing: .15vw;
     --spacer-1: 1vw;
     --spacer-2: 1.5vw;
@@ -207,11 +208,12 @@ small {
     }
 }
 
-.vazio-svg {
+.svg-title {
     margin: var(--spacer-1) 0;
-    width: calc(var(--text-6) * 5);
+    width: calc(var(--text-5) * 5);
 
     path {
         fill: var(--color-foreground);
+        // fill: #fc11fd;
     }
 }
