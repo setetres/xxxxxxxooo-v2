@@ -3,9 +3,6 @@
         <div class="application__page">
             <Header />
             <main class="application__page-content">
-                <!-- <div class="application__page-content-embed">
-                    <iframe width="560" height="315" src="https://youtube.com/embed/videoseries?list=PLWjcKkvgds-9TuK2urpOPMtvwxTU23zmO" frameborder="0" allowfullscreen />
-                </div> -->
                 <div class="application__music">
                     <div class="application__music-title">
                         <small>
@@ -14,7 +11,7 @@
                         <h1>NIEF</h1>
                     </div>
                     <div class="application__music-cover">
-                        <img src="/images/NIEF.png" alt="NIEF Album Cover">
+                        <img src="/images/nief.png" alt="NIEF Album Cover">
                         <small>
                             NIEF (EP), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarantine.
                         </small>
