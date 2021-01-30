@@ -9,7 +9,7 @@
                     </h2>
                     <p>
                         <nuxt-link to="/⩐/nief" class="link">
-                            Details
+                            Watch now
                         </nuxt-link>
                     </p>
                 </div>
@@ -17,7 +17,7 @@
         </div>
         <aside class="application__more">
             <div>
-                <h2 class="h6">Coming soon</h2>
+                <h2 class="h6">Latest release</h2>
                 <ul class="application__more-scroll">
                     <li>
                         <nuxt-link to="/⩐/nief">
