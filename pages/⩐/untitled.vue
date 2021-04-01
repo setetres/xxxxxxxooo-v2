@@ -27,7 +27,7 @@
                         <li>
                             <div>
                                 <small>1.</small>
-                                <small>7:03</small>
+                                <small>3:06</small>
                             </div>
                             <p>
                                 Untitled
