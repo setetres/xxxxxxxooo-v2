@@ -20,8 +20,8 @@
                 <h2 class="h6">Latest release</h2>
                 <ul class="application__more-scroll">
                     <li>
-                        <nuxt-link to="/⩐/nief">
-                            <img src="/images/thumbnail-nief.jpg">
+                        <nuxt-link to="/⩐/untitled">
+                            <img src="/images/thumbnail-untitled.jpg">
                         </nuxt-link>
                     </li>
                 </ul>
@@ -29,6 +29,11 @@
             <div>
                 <h2 class="h6">Recently added</h2>
                 <ul class="application__more-scroll">
+                    <li>
+                        <nuxt-link to="/⩐/nief">
+                            <img src="/images/thumbnail-nief.jpg">
+                        </nuxt-link>
+                    </li>
                     <li>
                         <nuxt-link to="/⩐/vaziø">
                             <img src="/images/thumbnail-vaziø.jpg">
