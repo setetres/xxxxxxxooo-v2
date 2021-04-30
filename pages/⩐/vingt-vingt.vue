@@ -196,43 +196,48 @@
                 <h2 class="h6">You may also like</h2>
                 <ul class="application__more-scroll">
                     <li>
+                        <nuxt-link to="/⩐/56kbps">
+                            <img src="/images/thumbnail-56kbps.jpg" alt="56kbps Thumbnail">
+                        </nuxt-link>
+                    </li>
+                    <li>
                         <nuxt-link to="/⩐/untitled">
-                            <img src="/images/thumbnail-untitled.jpg">
+                            <img src="/images/thumbnail-untitled.jpg" alt="Untitled Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>
                         <nuxt-link to="/⩐/nief">
-                            <img src="/images/thumbnail-nief.jpg">
+                            <img src="/images/thumbnail-nief.jpg" alt="NIEF Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>
                         <nuxt-link to="/⩐/vaziø">
-                            <img src="/images/thumbnail-vaziø.jpg">
+                            <img src="/images/thumbnail-vaziø.jpg" alt="VAZIØ Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>
                         <nuxt-link to="/⩐/displaynone">
-                            <img src="/images/thumbnail-displaynone.jpg">
+                            <img src="/images/thumbnail-displaynone.jpg" alt="DISPLAYNONE Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>
                         <nuxt-link to="/⩐/10-hour-keyboard-drumming">
-                            <img src="/images/thumbnail-10-hour-keyboard-drumming.jpg">
+                            <img src="/images/thumbnail-10-hour-keyboard-drumming.jpg" alt="10 HOUR KEYBOARD DRUMMING Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>
                         <nuxt-link to="/⩐/moshaxe">
-                            <img src="/images/thumbnail-moshaxe.jpg">
+                            <img src="/images/thumbnail-moshaxe.jpg" alt="MOSHAXÉ Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>
                         <nuxt-link to="/⩐/triceracough">
-                            <img src="/images/thumbnail-triceracough.jpg">
+                            <img src="/images/thumbnail-triceracough.jpg" alt="TRICERACOUGH Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>
                         <nuxt-link to="/⩐/fein">
-                            <img src="/images/thumbnail-fein.jpg">
+                            <img src="/images/thumbnail-fein.jpg" alt="FEIN Thumbnail">
                         </nuxt-link>
                     </li>
                 </ul>
