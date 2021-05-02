@@ -6,7 +6,7 @@
     &-scroll {
         display: grid;
         grid-gap: var(--spacer-3);
-        grid-template-columns: repeat(9, calc(50% - var(--spacer-7) * 2));
+        grid-template-columns: repeat(10, calc(50% - var(--spacer-7) * 2));
         grid-template-rows: 1fr;
         margin: var(--spacer-3) 0 0;
         overflow-x: scroll;
@@ -19,7 +19,7 @@
         }
 
         @media (min-width: 1200px) {
-            grid-template-columns: repeat(9, calc(33.33% - var(--spacer-3) * 2));
+            grid-template-columns: repeat(10, calc(33.33% - var(--spacer-3) * 2));
         }
 
         li {

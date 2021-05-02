@@ -196,6 +196,11 @@
                 <h2 class="h6">You may also like</h2>
                 <ul class="application__more-scroll">
                     <li>
+                        <nuxt-link to="/⩐/28kbps">
+                            <img src="/images/thumbnail-28kbps.jpg" alt="28kbps Thumbnail">
+                        </nuxt-link>
+                    </li>
+                    <li>
                         <nuxt-link to="/⩐/56kbps">
                             <img src="/images/thumbnail-56kbps.jpg" alt="56kbps Thumbnail">
                         </nuxt-link>
