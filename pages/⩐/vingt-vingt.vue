@@ -148,10 +148,10 @@
                     </ul>
                 </div>
                 <div class="application__music-photos">
-                    <img src="/images/vingt-vingt-01.jpg">
-                    <img src="/images/vingt-vingt-02.jpg">
-                    <img src="/images/vingt-vingt-03.jpg">
-                    <img src="/images/vingt-vingt-04.jpg">
+                    <img src="/images/vingt-vingt-01.jpg" alt="VINGT-VINGT Packshot">
+                    <img src="/images/vingt-vingt-02.jpg" alt="VINGT-VINGT Packshot">
+                    <img src="/images/vingt-vingt-03.jpg" alt="VINGT-VINGT Packshot">
+                    <img src="/images/vingt-vingt-04.jpg" alt="VINGT-VINGT Packshot">
                 </div>
                 <div class="application__page-info">
                     <h2 class="h6">Available</h2>

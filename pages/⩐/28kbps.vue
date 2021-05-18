@@ -34,6 +34,13 @@
                             </p>
                         </li>
                     </ul>
+                    <img src="/images/kbps-packshot.jpg" class="application__music-image" alt="28kbps Packshot">
+                </div>
+                <div class="application__music-photos">
+                    <img src="/images/kbps-01.jpg" alt="28kbps Packshot">
+                    <img src="/images/kbps-02.jpg" alt="28kbps Packshot">
+                    <img src="/images/kbps-03.jpg" alt="28kbps Packshot">
+                    <img src="/images/kbps-04.jpg" alt="28kbps Packshot">
                 </div>
                 <div class="application__page-info">
                     <h2 class="h6">Available</h2>
