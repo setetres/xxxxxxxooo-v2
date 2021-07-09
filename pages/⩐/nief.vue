@@ -228,10 +228,15 @@
                 </div>
                 <div class="application__page-info">
                     <h2 class="h6">Available</h2>
-                    <ul class="listen">
+                    <ul class="listen first">
                         <li>
                             <a href="https://music.apple.com/br/album/nief-ep/1551229648" class="link link--outline" target="_blank" rel="noopener">
                                 Apple Music
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://xxxxxxxooo.bandcamp.com/album/nief" class="link link--outline" target="_blank" rel="noopener">
+                                Bandcamp
                             </a>
                         </li>
                         <li>
@@ -239,6 +244,8 @@
                                 Deezer
                             </a>
                         </li>
+                    </ul>
+                    <ul class="listen">
                         <li>
                             <a href="https://open.spotify.com/album/5gX1vki0e5muS6cZlAKRJC" class="link link--outline" target="_blank" rel="noopener">
                                 Spotify

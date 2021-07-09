@@ -64,10 +64,15 @@
                 </div>
                 <div class="application__page-info">
                     <h2 class="h6">Available</h2>
-                    <ul class="listen">
+                    <ul class="listen first">
                         <li>
                             <a href="https://music.apple.com/br/album/fein-ep/1513768644" class="link link--outline" target="_blank" rel="noopener">
                                 Apple Music
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://xxxxxxxooo.bandcamp.com/album/fein" class="link link--outline" target="_blank" rel="noopener">
+                                Bandcamp
                             </a>
                         </li>
                         <li>
@@ -75,6 +80,8 @@
                                 Deezer
                             </a>
                         </li>
+                    </ul>
+                    <ul class="listen ">
                         <li>
                             <a href="https://open.spotify.com/album/0nN10kpHYXrOmIKOr36Ggx" class="link link--outline" target="_blank" rel="noopener">
                                 Spotify

@@ -37,10 +37,15 @@
                 </div>
                 <div class="application__page-info">
                     <h2 class="h6">Available</h2>
-                    <ul class="listen">
+                    <ul class="listen first">
                         <li>
                             <a href="https://music.apple.com/br/album/untitled-single/1561012200" class="link link--outline" target="_blank" rel="noopener">
                                 Apple Music
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://xxxxxxxooo.bandcamp.com/track/untitled" class="link link--outline" target="_blank" rel="noopener">
+                                Bandcamp
                             </a>
                         </li>
                         <li>
@@ -48,6 +53,8 @@
                                 Deezer
                             </a>
                         </li>
+                    </ul>
+                    <ul class="listen">
                         <li>
                             <a href="https://open.spotify.com/album/4rGuP76giFpYMfbzn730PW" class="link link--outline" target="_blank" rel="noopener">
                                 Spotify
