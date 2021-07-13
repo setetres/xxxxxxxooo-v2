@@ -2,7 +2,7 @@
 
 [![Github License](https://img.shields.io/github/license/setetres/xxxxxxxooo-v2.svg?v=10)](https://github.com/setetres/xxxxxxxooo-v2/blob/master/LICENSE)
 
-| [![xxxxxxxooo-v2](https://setetres.s3.amazonaws.com/setetres.st/img/share-xxxxxxxooo-v2.png?v=2&raw=true)](http://xxxxxxx.ooo) |
+| [![xxxxxxxooo-v2](https://setetres.s3.amazonaws.com/setetres.st/img/share-xxxxxxxooo-v2.png?v=3&raw=true)](http://xxxxxxx.ooo) |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 
 ## License
