@@ -20,6 +20,11 @@
                 <h2 class="h6">Latest release</h2>
                 <ul class="application__more-scroll">
                     <li>
+                        <nuxt-link to="/⩐/ijwgh">
+                            <img src="/images/thumbnail-ijwgh.jpg" alt="I.J.W.G.H Thumbnail">
+                        </nuxt-link>
+                    </li>
+                    <li>
                         <nuxt-link to="/⩐/28kbps">
                             <img src="/images/thumbnail-28kbps.jpg" alt="28kbps Thumbnail">
                         </nuxt-link>
@@ -29,16 +34,16 @@
                             <img src="/images/thumbnail-56kbps.jpg" alt="56kbps Thumbnail">
                         </nuxt-link>
                     </li>
-                    <li>
-                        <nuxt-link to="/⩐/untitled">
-                            <img src="/images/thumbnail-untitled.jpg" alt="Untitled Thumbnail">
-                        </nuxt-link>
-                    </li>
                 </ul>
             </div>
             <div>
                 <h2 class="h6">Recently added</h2>
                 <ul class="application__more-scroll">
+                    <li>
+                        <nuxt-link to="/⩐/untitled">
+                            <img src="/images/thumbnail-untitled.jpg" alt="Untitled Thumbnail">
+                        </nuxt-link>
+                    </li>
                     <li>
                         <nuxt-link to="/⩐/nief">
                             <img src="/images/thumbnail-nief.jpg" alt="NIEF Thumbnail">
