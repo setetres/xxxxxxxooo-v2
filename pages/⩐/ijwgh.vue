@@ -56,7 +56,7 @@
                     </ul>
                     <ul class="listen">
                         <li>
-                            <a href="https://open.spotify.com/album/4rGuP76giFpYMfbzn730PW" class="link link--outline" target="_blank" rel="noopener">
+                            <a href="https://open.spotify.com/album/4tsB7ObHBi18ggyWmTQKM1" class="link link--outline" target="_blank" rel="noopener">
                                 Spotify
                             </a>
                         </li>
