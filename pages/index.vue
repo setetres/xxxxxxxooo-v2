@@ -17,7 +17,7 @@
         </div>
         <aside class="application__more">
             <div>
-                <h2 class="h6">Latest release</h2>
+                <h2 class="h6">Everything</h2>
                 <ul class="application__more-scroll">
                     <li>
                         <nuxt-link to="/⩐/ijwgh">
@@ -32,16 +32,6 @@
                     <li>
                         <nuxt-link to="/⩐/56kbps">
                             <img src="/images/thumbnail-56kbps.jpg" alt="56kbps Thumbnail">
-                        </nuxt-link>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <h2 class="h6">Recently added</h2>
-                <ul class="application__more-scroll">
-                    <li>
-                        <nuxt-link to="/⩐/untitled">
-                            <img src="/images/thumbnail-untitled.jpg" alt="Untitled Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>
@@ -64,11 +54,6 @@
                             <img src="/images/thumbnail-vingt-vingt.jpg" alt="VINGT-VINGT Thumbnail">
                         </nuxt-link>
                     </li>
-                </ul>
-            </div>
-            <div>
-                <h2 class="h6">You may also like</h2>
-                <ul class="application__more-scroll">
                     <li>
                         <nuxt-link to="/⩐/10-hour-keyboard-drumming">
                             <img src="/images/thumbnail-10-hour-keyboard-drumming.jpg" alt="10 HOUR KEYBOARD DRUMMING Thumbnail">

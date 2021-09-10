@@ -76,7 +76,7 @@
         </div>
         <div class="application__more">
             <div>
-                <h2 class="h6">You may also like</h2>
+                <h2 class="h6">Everything</h2>
                 <ul class="application__more-scroll">
                     <li>
                         <nuxt-link to="/⩐/ijwgh">

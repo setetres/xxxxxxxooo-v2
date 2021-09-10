@@ -76,7 +76,7 @@
         </div>
         <div class="application__more">
             <div>
-                <h2 class="h6">You may also like</h2>
+                <h2 class="h6">Everything</h2>
                 <ul class="application__more-scroll">
                     <li>
                         <nuxt-link to="/⩐/ijwgh">
@@ -94,13 +94,13 @@
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/⩐/untitled">
-                            <img src="/images/thumbnail-untitled.jpg" alt="Untitled Thumbnail">
+                        <nuxt-link to="/⩐/nief">
+                            <img src="/images/thumbnail-nief.jpg" alt="NIEF Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/⩐/nief">
-                            <img src="/images/thumbnail-nief.jpg" alt="NIEF Thumbnail">
+                        <nuxt-link to="/⩐/vaziø">
+                            <img src="/images/thumbnail-vaziø.jpg" alt="VAZIØ Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>

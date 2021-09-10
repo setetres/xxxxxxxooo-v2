@@ -83,7 +83,7 @@
         </div>
         <div class="application__more">
             <div>
-                <h2 class="h6">You may also like</h2>
+                <h2 class="h6">Everything</h2>
                 <ul class="application__more-scroll">
                     <li>
                         <nuxt-link to="/⩐/ijwgh">
@@ -96,8 +96,8 @@
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/⩐/untitled">
-                            <img src="/images/thumbnail-untitled.jpg" alt="Untitled Thumbnail">
+                        <nuxt-link to="/⩐/56kbps">
+                            <img src="/images/thumbnail-56kbps.jpg" alt="56kbps Thumbnail">
                         </nuxt-link>
                     </li>
                     <li>
