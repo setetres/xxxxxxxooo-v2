@@ -9,5 +9,5 @@
 
 [CC0-1.0]
 
-[http://xxxxxxx.ooo]: http://xxxxxxx.ooo
+[http://v2.xxxxxxx.ooo]: http://v2.xxxxxxx.ooo
 [cc0-1.0]: http://creativecommons.org/licenses/cc0/1.0

@@ -281,7 +281,7 @@
 
         head() {
             return {
-                title: 'XXXXXXXOOO — 𝐕𝐈𝐍𝐆𝐓-𝐕𝐈𝐍𝐆𝐓'
+                title: 'XXXXXXXOOO — v2'
             }
         },
 

@@ -164,7 +164,7 @@
 
         head() {
             return {
-                title: 'XXXXXXXOOO — 56kbps'
+                title: 'XXXXXXXOOO — v2'
             }
         },
 

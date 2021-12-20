@@ -99,7 +99,7 @@
 
         head() {
             return {
-                title: 'XXXXXXXOOO — 10-HOUR KEYBOARD DRUMMING'
+                title: 'XXXXXXXOOO — v2'
             }
         },
 

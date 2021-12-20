@@ -190,7 +190,7 @@
 
         head() {
             return {
-                title: 'XXXXXXXOOO — FEIN'
+                title: 'XXXXXXXOOO — v2'
             }
         },
 

@@ -157,7 +157,7 @@
 
         head() {
             return {
-                title: 'XXXXXXXOOO — Untitled'
+                title: 'XXXXXXXOOO — v2'
             }
         },
 

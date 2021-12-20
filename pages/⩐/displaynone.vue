@@ -157,7 +157,7 @@
 
         head() {
             return {
-                title: 'XXXXXXXOOO — DISPLAYNONE'
+                title: 'XXXXXXXOOO — v2'
             }
         },
 
