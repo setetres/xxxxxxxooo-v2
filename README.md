@@ -1,4 +1,4 @@
-# XXXXXXXOOO-v2
+# xxxxxxxooo-v2
 
 [![Github License](https://img.shields.io/github/license/setetres/xxxxxxxooo-v2.svg?v=10)](https://github.com/setetres/xxxxxxxooo-v2/blob/master/LICENSE)
 
